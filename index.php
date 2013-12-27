@@ -9,7 +9,7 @@
                         <div class="col-sm-2 visible-sm"></div>
                         <div class="col-sm-8 col-md-4">
                             <div class="biothumb">
-                                <img alt="image" src="img/personal/personal-big.png" class="img-responsive">
+                                <img alt="image" src="img/palestra_codigo.jpg" class="img-responsive">
 
                             </div>
                             
