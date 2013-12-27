@@ -1,4 +1,4 @@
-Nicholas Andre Pinho de Oliveira
+Nicholas André Pinho de Oliveira
 ====================
 
 Portfolio Pessoal

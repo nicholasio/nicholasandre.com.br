@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Faculty-Responsive university staff personal page</title>
+        <title>Nícholas André - Programador Web & Desktop</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="author" content="owwwlab.com">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -59,7 +59,7 @@
                             <div class="portrate hidden-xs"></div>
                             <div class="title">
                                 <h2>Nícholas André</h2>
-                                <h3>Programador Web</h3>
+                                <h3>Programador Web & Desktop</h3>
                             </div>
                             
                         </div>

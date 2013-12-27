@@ -17,7 +17,12 @@
                         <div class="clearfix visible-sm visible-xs"></div>
                         <div class="col-sm-12 col-md-7">
                             <h3 class="title">Nícholas André</h3>
-                            <p>Um programador</p>
+                            <p>Técnico em Informática pelo IFRN - Mossoró, atualmente curso o Bacharelado em Ciência da Computação na Universidade Federal
+                                Rural do Semi-Árido. Programo para Web há cerca de 4 anos e há mais de 6 anos iniciei meus estudos na área de computação. Últimamente
+                                tenho desenvolvido projetos para web com PHP e seus Frameworks e CMS's. Possuo cerca 3 anos de experiência com Wordpress, ferramenta a qual faço uso
+                                para desenvolver boa parte dos meus projetos para Web.</p>
+
+                                <p>Também realizo treinamentos em Wordpress</p>
                         </div>  
                         
                     </div>
@@ -31,82 +36,76 @@
                     <div class="row">
                         <div class="col-md-5 col-md-offset-1">
                             <div class="title text-center">
-                                <h3>Academic Positions</h3>
+                                <h3>Treinamentos</h3>
                             </div>
                             <ul class="ul-dates">
                                 <li>
                                     <div class="dates">
-                                        <span>Present</span>
-                                        <span>2005</span>
+                                        <span>2013</span>
+                                        <span>120h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>General Atlantic Professor</h4>
-                                        <p><em>Stanford University</em>, Graduate School of Business</p>
+                                        <h4>Formação Desenvolvedor PHP ( Desenvolvimento Web, Orientado a Objetos e Desenvolvimento Enterprise)</h4>
+                                        <p><em>4Linux</em> - Free Software solutions</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="dates">
-                                        <span>2005</span>
-                                        <span>2004</span>
+                                        <span>2012</span>
+                                        <span>40h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>Full Professor</h4>
-                                        <p><em>Stanford University</em>, Graduate School of Business</p>
+                                        <h4>Teste de invasão em redes</h4>
+                                        <p><em>Academia OYS</em></p>
                                     </div>
                                 </li>
+
                                 <li>
                                     <div class="dates">
-                                        <span>2004</span>
-                                        <span>2001</span>
+                                        <span>2012</span>
+                                        <span>40h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>Assistant Professor</h4>
-                                        <p><em>UCLA</em>, Anderson Graduate School of Management</p>
+                                        <h4>Fundamentos de Programaçao - Assembly</h4>
+                                        <p><em>Academia OYS</em></p>
                                     </div>
                                 </li>
+
                                 <li>
                                     <div class="dates">
-                                        <span>2001</span>
-                                        <span>1999</span>
+                                        <span>2011</span>
+                                        <span>80h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>Visiting Assistant Professor</h4>
-                                        <p><em>Columbia University</em>, Graduate School of Business</p>
+                                        <h4>Cursos de Real Time, ExtJS 4, PHP, Sencha Touch, Phonegap, CakePHP e Responsive Web Design </h4>
+                                        <p><em>School Of Net</em></p>
                                     </div>
                                 </li>
+
                             </ul>
                         </div>
                         <div class="col-md-5">
                             <div class="title text-center">
-                                <h3>Education & Training</h3>
+                                <h3>Formação</h3>
                             </div>
                             <ul class="ul-card">
+
                                 <li>
                                     <div class="dy">
-                                        <span class="degree">Ph.D.</span>
-                                        <span class="year">1995</span>
+                                        <span class="degree">Bacharelado</span><span class="year">2011-</span>
                                     </div>
                                     <div class="description">
-                                        <p class="waht">Ph.D. in Marketing</p>
-                                        <p class="where">Stanford University Graduate School of Business</p>
+                                        <p class="waht">Bacharelado em Ciências da Computação</p>
+                                        <p class="where">UFERSA - Universidade Federal Rural do Semi-Árido</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="dy">
-                                        <span class="degree">M.B.A.</span><span class="year">1993</span>
+                                        <span class="degree">Técnico</span><span class="year">2008-2011</span>
                                     </div>
                                     <div class="description">
-                                        <p class="waht">Master of Business Administration</p>
-                                        <p class="where">Boston University</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="dy">
-                                        <span class="degree">B.A.</span><span class="year">1989</span>
-                                    </div>
-                                    <div class="description">
-                                        <p class="waht">Bachelor of Arts in Psychology</p>
-                                        <p class="where">University of California, Berkeley</p>
+                                        <p class="waht">Técnico em Informática</p>
+                                        <p class="where">IFRN - Instituto Federal de Educação Ciência e Tecnologia - Campus Mossoró</p>
                                     </div>
                                 </li>
                                 
@@ -123,81 +122,38 @@
                     <div class="row">
                         <div class="col-md-10 col-md-offset-1">
                             <div class="title text-center">
-                                <h3>Honors, Awards and Grants</h3>
+                                <h3>Treinamentos, palestras e mini-cursos ministrados</h3>
                             </div>
                             <ul class="timeline">
                                         
                                 <li class="open">
-                                    <div class="date">SCP 2014</div>
+                                    <div class="date">2012</div>
                                     <div class="circle"></div>
                                     <div class="data">
-                                        <div class="subject">Distinguished Scientific Achievement Award</div>
+                                        <div class="subject">Wordpress Plugins - Avançado</div>
                                         <div class="text row">
                                             <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/personal/awards100x100.png" >
+                                                <img alt="image" class="thumbnail img-responsive" src="img/wpplugins.jpg" >
                                             </div>
                                             <div class="col-md-10">
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas dapibus lectus non dignissim. Pellentesque auctor ornare urna, volutpat condimentum quam porttitor at. Vestibulum tincidunt diam in eros aliquam luctus. Donec sagittis a purus a porttitor. Sed non feugiat enim. Donec eget metus erat. Vivamus sed consequat orci. Aenean commodo lectus sed purus auctor ullamcorper.
+                                                Treinamento de 16h ministrado pela School Of Net, onde foi abordado vários recursos e técnicas para criação
+                                                de plugins da forma correta com Wordpress.
                                             </div>
                                         </div>
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="date">2012-2013</div>
+                                    <div class="date">2012</div>
                                     <div class="circle"></div>
                                     <div class="data">
-                                        <div class="subject">Ormond Family Faculty Fellow</div>
+                                        <div class="subject">Workshop Wordpress - Temas & Plugins</div>
                                         <div class="text row">
                                             <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/personal/awards100x100.png" >
+                                                <img alt="image" class="thumbnail img-responsive" src="img/wordpress.jpg" >
                                             </div>
                                             <div class="col-md-10">
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas dapibus lectus non dignissim. Pellentesque auctor ornare urna, volutpat condimentum quam porttitor at. Vestibulum tincidunt diam in eros aliquam luctus. Donec sagittis a purus a porttitor. Sed non feugiat enim. Donec eget metus erat. Vivamus sed consequat orci. Aenean commodo lectus sed purus auctor ullamcorper.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="date">June 2011</div>
-                                    <div class="circle"></div>
-                                    <div class="data">
-                                        <div class="subject">Nautilus Silver Award for Dragonfly Effect</div>
-                                        <div class="text row">
-                                            <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/personal/awards100x100.png" >
-                                            </div>
-                                            <div class="col-md-10">
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas dapibus lectus non dignissim. Pellentesque auctor ornare urna, volutpat condimentum quam porttitor at. Vestibulum tincidunt diam in eros aliquam luctus. Donec sagittis a purus a porttitor. Sed non feugiat enim. Donec eget metus erat. Vivamus sed consequat orci. Aenean commodo lectus sed purus auctor ullamcorper.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="date">2000 - 2003</div>
-                                    <div class="circle"></div>
-                                    <div class="data">
-                                        <div class="subject">Hong Kong Science International Research Grant</div>
-                                        <div class="text row">
-                                            <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/personal/awards100x100.png" >
-                                            </div>
-                                            <div class="col-md-10">
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas dapibus lectus non dignissim. Pellentesque auctor ornare urna, volutpat condimentum quam porttitor at. Vestibulum tincidunt diam in eros aliquam luctus. Donec sagittis a purus a porttitor. Sed non feugiat enim. Donec eget metus erat. Vivamus sed consequat orci. Aenean commodo lectus sed purus auctor ullamcorper.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="date">1999</div>
-                                    <div class="circle"></div>
-                                    <div class="data">
-                                        <div class="subject">Citibank Best Teacher Award (school-wide award, UCLA)</div>
-                                        <div class="text row">
-                                            <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/personal/awards100x100.png" >
-                                            </div>
-                                            <div class="col-md-10">
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas dapibus lectus non dignissim. Pellentesque auctor ornare urna, volutpat condimentum quam porttitor at. Vestibulum tincidunt diam in eros aliquam luctus. Donec sagittis a purus a porttitor. Sed non feugiat enim. Donec eget metus erat. Vivamus sed consequat orci. Aenean commodo lectus sed purus auctor ullamcorper.
+                                                Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos 
+                                                do wordpress para criação de temas e plugins.
                                             </div>
                                         </div>
                                     </div>
