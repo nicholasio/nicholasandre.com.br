@@ -1,4 +1,7 @@
-<?php include("header.php"); ?>
+<?php 
+
+$_page = "index";
+include("header.php"); ?>
 <div id="main">
     <div id="biography" class="page home" data-pos="home">
         <div class="pageheader">
@@ -22,7 +25,7 @@
                                 tenho desenvolvido projetos para web com PHP e seus Frameworks e CMS's. Possuo cerca 3 anos de experiência com Wordpress, ferramenta a qual faço uso
                                 para desenvolver boa parte dos meus projetos para Web.</p>
 
-                                <p>Também realizo treinamentos em Wordpress</p>
+                                <p>Atualmente trabalho no departamento de TI da Universidade Federal Rural do Semi-Árido, e paralelamente realizo trabalhos freelancers.</p>
                         </div>  
                         
                     </div>
@@ -95,7 +98,7 @@
                                         <span class="degree">Bacharelado</span><span class="year">2011-</span>
                                     </div>
                                     <div class="description">
-                                        <p class="waht">Bacharelado em Ciências da Computação</p>
+                                        <p class="waht">Bacharelado em Ciência da Computação</p>
                                         <p class="where">UFERSA - Universidade Federal Rural do Semi-Árido</p>
                                     </div>
                                 </li>

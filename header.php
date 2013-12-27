@@ -63,55 +63,56 @@
                             </div>
                             
                         </div>
+                        <?php global $_page;?>
                         <ul id="navigation">
-                            <li class="currentmenu">
-                              <a href="index.html">
+                            <li <?php if ( $_page == 'index' ):  ?> class="currentmenu" <?php endif; ?> >
+                              <a href="index.php">
                                 <div class="icon icon-user"></div>
                                 <div class="text">Sobre mim</div>
                               </a>
                             </li>  
                             
-                            <li>
-                              <a href="research.html">
+                            <li <?php if ( $_page == 'servicos' ):  ?> class="currentmenu" <?php endif; ?>>
+                              <a href="servicos.php">
                                 <div class="icon icon-book"></div>
-                                <div class="text">Pesquisas</div>
+                                <div class="text">Servíços</div>
                               </a>
                             </li> 
                             
-                            <li>
-                              <a href="publication.html">
+                            <li <?php if ( $_page == 'publicacoes' ):  ?> class="currentmenu" <?php endif; ?>>
+                              <a href="publicacoes.php">
                                 <div class="icon icon-edit"></div>
                                 <div class="text">Publicações</div>
                               </a>
                             </li> 
 
-                            <li>
-                              <a href="teaching.html">
+                            <li <?php if ( $_page == 'ensino' ):  ?> class="currentmenu" <?php endif; ?>>
+                              <a href="ensino.php">
                                 <div class="icon icon-time"></div>
                                 <div class="text">Ensino</div>
                               </a>
                             </li>
 
-                            <li>
+                            <!--<li>
                               <a href="gallery.html">
                                 <div class="icon icon-picture"></div>
                                 <div class="text">Galeria</div>
                               </a>
-                            </li>
+                            </li>-->
 
-                            <li>
-                              <a href="contact.html">
+                            <li <?php if ( $_page == 'contato' ):  ?> class="currentmenu" <?php endif; ?>>
+                              <a href="contato.php">
                                   <div class="icon icon-calendar"></div>
-                                  <div class="text">Contact & Meet Me</div>
+                                  <div class="text">Entre em contato</div>
                               </a>
                             </li>
 
-                            <li>
+                            <!--<li>
                               <a href="cv.pdf">
                                   <div class="icon icon-download-alt"></div>
                                   <div class="text">Download CV</div>
                               </a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>        
                 </div>
