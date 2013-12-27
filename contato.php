@@ -51,7 +51,7 @@ include("header.php");
                                 </li>
                                 <li>
                                     <strong><i class="icon-facebook"></i>&nbsp;&nbsp;</strong>
-                                    <span><a href="htpp://www.facebook.com/nicholasandreio">nicholasandreio</a></span>
+                                    <span><a href="http://www.facebook.com/nicholasandreio">nicholasandreio</a></span>
                                 </li>
                             </ul>    
 

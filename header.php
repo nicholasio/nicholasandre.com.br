@@ -89,7 +89,7 @@
                             <li <?php if ( $_page == 'ensino' ):  ?> class="currentmenu" <?php endif; ?>>
                               <a href="ensino.php">
                                 <div class="icon icon-time"></div>
-                                <div class="text">Ensino</div>
+                                <div class="text">Palestras e treinamentos</div>
                               </a>
                             </li>
 
@@ -119,9 +119,9 @@
                 
                 <div class="social-icons">
                     <ul>
-                        <li><a href="#"><i class="icon-facebook"></i></a></li>
-                        <li><a href="#"><i class="icon-twitter"></i></a></li>
-                        <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                        <li><a target="_blank" href="http://www.facebook.com/nicholasandreio"><i class="icon-facebook"></i></a></li>
+                        <li><a target="_blank" href="http://www.twitter.com.br/nicholas_io"><i class="icon-twitter"></i></a></li>
+                        <!--<li><a target="_blank" href="#"><i class="icon-linkedin"></i></a></li>-->
                     </ul>
                 </div>    
             </div>
