@@ -21,11 +21,11 @@ include("header.php"); ?>
                         <div class="col-sm-12 col-md-7">
                             <h3 class="title">Nícholas André</h3>
                             <p>Técnico em Informática pelo IFRN - Mossoró, atualmente curso o Bacharelado em Ciência da Computação na Universidade Federal
-                                Rural do Semi-Árido. Programo para Web há cerca de 4 anos e há mais de 6 anos iniciei meus estudos na área de computação. Últimamente
+                                Rural do Semi-Árido. Programo para Web há 4 anos e há mais de 6 anos iniciei meus estudos na área de computação. Últimamente
                                 tenho desenvolvido projetos para web com PHP e seus Frameworks e CMS's. Possuo cerca 3 anos de experiência com Wordpress, ferramenta a qual faço uso
-                                para desenvolver boa parte dos meus projetos para Web.</p>
+                                constante para desenvolver projetos para Web.</p>
 
-                                <p>Atualmente trabalho no departamento de TI da Universidade Federal Rural do Semi-Árido, e paralelamente realizo trabalhos freelancers.</p>
+                            <p>Atualmente trabalho no departamento de TI da Universidade Federal Rural do Semi-Árido, e paralelamente realizo consultoria para empresas.</p>
                         </div>  
                         
                     </div>

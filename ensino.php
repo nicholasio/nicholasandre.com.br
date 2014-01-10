@@ -35,7 +35,7 @@ include("header.php");
                                         <span>16h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>Wordpress - Plugins Avançado - <em>Liberado! Assita agora</em></h4>
+                                        <h4>Wordpress - Plugins Avançado - <a href="#"><em>Liberado! Assista agora</em></a></h4>
                                         <p> Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos do wordpress para criação de temas e plugins.
                                         </p>
                                     </div>
@@ -46,7 +46,7 @@ include("header.php");
                                         <span>16h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>Wordpress - Temas & Plugins - <em>Liberado! Assita agora</em></h4>
+                                        <h4>Wordpress - Temas & Plugins - <a href="#"><em>Liberado! Assista agora</em></a></h4>
                                         <p>Treinamento de 16h ministrado pela School Of Net, onde foi abordado vários recursos e técnicas para criação de plugins da forma correta com Wordpress. </p>
                                     </div>
                                 </li>
@@ -80,7 +80,7 @@ include("header.php");
                                     </div>
                                     <div class="content">
                                         <h4>Introdução ao sistema operacional GNU/Linux - SEMEPRO 2013</h4>
-                                        <p>Mini-curso apresentado durante edição 2013 da Semana de Engenharia de Produção realizado realizada na cidade de Mossoró. <a href="downloads/IntroducaoLinux.pdf">Slide</a></p>
+                                        <p>Mini-curso apresentado durante edição 2013 da Semana de Engenharia de Produção realizada na cidade de Mossoró. <a href="downloads/IntroducaoLinux.pdf">Slide</a></p>
                                     </div>
                                 </li>
                                 <li>

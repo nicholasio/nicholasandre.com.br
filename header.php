@@ -78,19 +78,30 @@
                                 <div class="text">Servíços</div>
                               </a>
                             </li> 
-                            
-                            <li <?php if ( $_page == 'publicacoes' ):  ?> class="currentmenu" <?php endif; ?>>
+                            <li>
+                                <a href="cursos.php">
+                                    <div class="icon icon-film"></div>
+                                    <div class="text">Cursos</div>
+                                </a>
+                            </li>
+                            <!-- <li <?php if ( $_page == 'publicacoes' ):  ?> class="currentmenu" <?php endif; ?>>
                               <a href="publicacoes.php">
                                 <div class="icon icon-edit"></div>
                                 <div class="text">Publicações</div>
                               </a>
-                            </li> 
+                            </li> -->
 
                             <li <?php if ( $_page == 'ensino' ):  ?> class="currentmenu" <?php endif; ?>>
                               <a href="ensino.php">
                                 <div class="icon icon-time"></div>
                                 <div class="text">Palestras e treinamentos</div>
                               </a>
+                            </li>
+                            <li>
+                                <a href="http://www.iotecnologia.com.br">
+                                    <div class="icon icon-link"></div>
+                                    <div class="text">Blog</div>
+                                </a>
                             </li>
 
                             <!--<li>
