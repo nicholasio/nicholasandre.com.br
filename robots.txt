@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cloud9/
+Disallow: /openmeeting/
