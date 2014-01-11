@@ -78,7 +78,7 @@
                                 <div class="text">Servíços</div>
                               </a>
                             </li> 
-                            <li>
+                            <li  <?php if ( $_page == 'cursos' ):  ?> class="currentmenu" <?php endif; ?>>
                                 <a href="cursos.php">
                                     <div class="icon icon-film"></div>
                                     <div class="text">Cursos</div>

@@ -1,6 +1,6 @@
 
 <?php 
-	$_page = "projetos";
+	$_page = "servicos";
 	include("header.php");
 ?>
 <div id="main">
