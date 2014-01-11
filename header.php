@@ -104,12 +104,12 @@
                                 </a>
                             </li>
 
-                            <!--<li>
-                              <a href="gallery.html">
+                            <li <?php if ( $_page == 'portfolio' ):  ?> class="currentmenu" <?php endif; ?>>
+                              <a href="portfolio.php">
                                 <div class="icon icon-picture"></div>
-                                <div class="text">Galeria</div>
+                                <div class="text">Portfolio</div>
                               </a>
-                            </li>-->
+                            </li>
 
                             <li <?php if ( $_page == 'contato' ):  ?> class="currentmenu" <?php endif; ?>>
                               <a href="contato.php">
