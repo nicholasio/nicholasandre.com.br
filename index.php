@@ -174,7 +174,7 @@ include("header.php"); ?>
                                             </div>
                                             <div class="col-md-10">
                                                 Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos 
-                                                do wordpress para criação de temas e plugins. <a href="cursos.php">Assista!</a>
+                                                do wordpress para criação de temas e plugins. <a href="cursos">Assista!</a>
                                             </div>
                                         </div>
                                     </div>

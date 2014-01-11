@@ -12,37 +12,37 @@
         <link rel="shortcut icon" href="../favicon.ico">
 
         <!--CSS styles-->
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">  
-        <link rel="stylesheet" href="css/perfect-scrollbar-0.4.5.min.css">
-        <link rel="stylesheet" href="css/magnific-popup.css">
-        <link rel="stylesheet" href="css/style.css">
-        <link id="theme-style" rel="stylesheet" href="css/styles/default.css">
+        <link rel="stylesheet" href="/css/bootstrap.css">
+        <link rel="stylesheet" href="/css/font-awesome.min.css">  
+        <link rel="stylesheet" href="/css/perfect-scrollbar-0.4.5.min.css">
+        <link rel="stylesheet" href="/css/magnific-popup.css">
+        <link rel="stylesheet" href="/css/style.css">
+        <link id="theme-style" rel="stylesheet" href="/css/styles/default.css">
 
         
         <!--/CSS styles-->
         <!--Javascript files-->
-        <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
-        <script type="text/javascript" src="js/TweenMax.min.js"></script>
-        <script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
-        <script type="text/javascript" src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
+        <script type="text/javascript" src="/js/jquery-1.10.2.js"></script>
+        <script type="text/javascript" src="/js/TweenMax.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.touchSwipe.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.carouFredSel-6.2.1-packed.js"></script>
         
-        <script type="text/javascript" src="js/modernizr.custom.63321.js"></script>
-        <script type="text/javascript" src="js/jquery.dropdownit.js"></script>
+        <script type="text/javascript" src="/js/modernizr.custom.63321.js"></script>
+        <script type="text/javascript" src="/js/jquery.dropdownit.js"></script>
 
-        <script type="text/javascript" src="js/jquery.stellar.min.js"></script>
-        <script type="text/javascript" src="js/ScrollToPlugin.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="/s/ScrollToPlugin.min.js"></script>
 
-        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 
-        <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.mixitup.min.js"></script>
 
-        <script type="text/javascript" src="js/masonry.min.js"></script>
+        <script type="text/javascript" src="/js/masonry.min.js"></script>
 
-        <script type="text/javascript" src="js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+        <script type="text/javascript" src="/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
 
-        <script type="text/javascript" src="js/magnific-popup.js"></script>
-        <script type="text/javascript" src="js/custom.js"></script>
+        <script type="text/javascript" src="/js/magnific-popup.js"></script>
+        <script type="text/javascript" src="/js/custom.js"></script>
 
         <!--/Javascript files-->
 
@@ -66,20 +66,20 @@
                         <?php global $_page;?>
                         <ul id="navigation">
                             <li <?php if ( $_page == 'index' ):  ?> class="currentmenu" <?php endif; ?> >
-                              <a href="index.php">
+                              <a href="index">
                                 <div class="icon icon-user"></div>
                                 <div class="text">Sobre mim</div>
                               </a>
                             </li>  
                             
                             <li <?php if ( $_page == 'servicos' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="servicos.php">
+                              <a href="servicos">
                                 <div class="icon icon-book"></div>
                                 <div class="text">Servíços</div>
                               </a>
                             </li> 
                             <li  <?php if ( $_page == 'cursos' ):  ?> class="currentmenu" <?php endif; ?>>
-                                <a href="cursos.php">
+                                <a href="cursos">
                                     <div class="icon icon-film"></div>
                                     <div class="text">Cursos</div>
                                 </a>
@@ -105,14 +105,14 @@
                             </li>
 
                             <li <?php if ( $_page == 'portfolio' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="portfolio.php">
+                              <a href="portfolio">
                                 <div class="icon icon-picture"></div>
                                 <div class="text">Portfolio</div>
                               </a>
                             </li>
 
                             <li <?php if ( $_page == 'contato' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="contato.php">
+                              <a href="contato">
                                   <div class="icon icon-calendar"></div>
                                   <div class="text">Entre em contato</div>
                               </a>
