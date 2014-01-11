@@ -24,8 +24,12 @@ include("header.php"); ?>
                                 Rural do Semi-Árido. Programo para Web há 4 anos e há mais de 6 anos iniciei meus estudos na área de computação. Últimamente
                                 tenho desenvolvido projetos para web com PHP e seus Frameworks e CMS's. Possuo cerca 3 anos de experiência com Wordpress, ferramenta a qual faço uso
                                 constante para desenvolver projetos para Web.</p>
+                            <h3>Deseja aprender Wordpress?</h3>
+                            <p> Preencha seu e-mail no formulário abaixo e obtenha acesso completo ao curso de Wordpress Temas & Plugins com carga horária de 16h ministrado por min na <a href="#">School Of Net</a>.
 
-                            <p>Atualmente trabalho no departamento de TI da Universidade Federal Rural do Semi-Árido, e paralelamente realizo consultoria para empresas.</p>
+                                <h4><a target="_blank" href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">Clique aqui</a> para assitir a palestra de divulgação do curso.</h4>
+                            </p>
+                            <?php include("forms/wp-form.php"); ?>
                         </div>  
                         
                     </div>
@@ -154,7 +158,7 @@ include("header.php"); ?>
                                             </div>
                                             <div class="col-md-10">
                                                 Treinamento de 16h ministrado pela School Of Net, onde foi abordado vários recursos e técnicas para criação
-                                                de plugins da forma correta com Wordpress.
+                                                de plugins da forma correta com Wordpress. Será disponibilizado gratuitamente em breve.
                                             </div>
                                         </div>
                                     </div>
@@ -170,7 +174,7 @@ include("header.php"); ?>
                                             </div>
                                             <div class="col-md-10">
                                                 Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos 
-                                                do wordpress para criação de temas e plugins.
+                                                do wordpress para criação de temas e plugins. <a href="cursos.php">Assista!</a>
                                             </div>
                                         </div>
                                     </div>
