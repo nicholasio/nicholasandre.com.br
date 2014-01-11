@@ -66,7 +66,7 @@
                         <?php global $_page;?>
                         <ul id="navigation">
                             <li <?php if ( $_page == 'index' ):  ?> class="currentmenu" <?php endif; ?> >
-                              <a href="index">
+                              <a href="/">
                                 <div class="icon icon-user"></div>
                                 <div class="text">Sobre mim</div>
                               </a>
@@ -79,7 +79,7 @@
                               </a>
                             </li> 
                             <li  <?php if ( $_page == 'cursos' ):  ?> class="currentmenu" <?php endif; ?>>
-                                <a href="cursos">
+                                <a href="/cursos">
                                     <div class="icon icon-film"></div>
                                     <div class="text">Cursos</div>
                                 </a>
@@ -92,7 +92,7 @@
                             </li> -->
 
                             <li <?php if ( $_page == 'ensino' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="ensino.php">
+                              <a href="/ensino.php">
                                 <div class="icon icon-time"></div>
                                 <div class="text">Palestras e treinamentos</div>
                               </a>
@@ -105,14 +105,14 @@
                             </li>
 
                             <li <?php if ( $_page == 'portfolio' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="portfolio">
+                              <a href="/portfolio">
                                 <div class="icon icon-picture"></div>
                                 <div class="text">Portfolio</div>
                               </a>
                             </li>
 
                             <li <?php if ( $_page == 'contato' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="contato">
+                              <a href="/contato">
                                   <div class="icon icon-calendar"></div>
                                   <div class="text">Entre em contato</div>
                               </a>

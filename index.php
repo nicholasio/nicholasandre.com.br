@@ -139,7 +139,7 @@ include("header.php"); ?>
                                         <div class="subject">Palestra Wordpress - Dicas e Truques</div>
                                         <div class="text row">
                                             <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/wpplugins.jpg" >
+                                                <img alt="image" class="thumbnail img-responsive" src="/img/wpplugins.jpg" >
                                             </div>
                                             <div class="col-md-10">
                                                Palestra gratuita onde dou algumas dicas sobre wordpress. Assista <a href="https://connect72578937.adobeconnect.com/_a995756029/p2736p5t9hp/">aqui</a>
@@ -154,7 +154,7 @@ include("header.php"); ?>
                                         <div class="subject">Wordpress Plugins - Avançado</div>
                                         <div class="text row">
                                             <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/wpplugins.jpg" >
+                                                <img alt="image" class="thumbnail img-responsive" src="/img/wpplugins.jpg" >
                                             </div>
                                             <div class="col-md-10">
                                                 Treinamento de 16h ministrado pela School Of Net, onde foi abordado vários recursos e técnicas para criação
@@ -170,11 +170,11 @@ include("header.php"); ?>
                                         <div class="subject">Workshop Wordpress - Temas & Plugins</div>
                                         <div class="text row">
                                             <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/wordpress.jpg" >
+                                                <img alt="image" class="thumbnail img-responsive" src="/img/wordpress.jpg" >
                                             </div>
                                             <div class="col-md-10">
                                                 Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos 
-                                                do wordpress para criação de temas e plugins. <a href="cursos">Assista!</a>
+                                                do wordpress para criação de temas e plugins. <a href="/cursos">Assista!</a>
                                             </div>
                                         </div>
                                     </div>
@@ -186,7 +186,7 @@ include("header.php"); ?>
                                         <div class="subject">Palestra Wordpress - Temas & Plugins</div>
                                         <div class="text row">
                                             <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="img/wordpress.jpg" >
+                                                <img alt="image" class="thumbnail img-responsive" src="/img/wordpress.jpg" >
                                             </div>
                                             <div class="col-md-10">
                                                 Palestra ministrada para divulgar o curso de Wordpress - Temas & Plugins. Assista <a href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">aqui</a>

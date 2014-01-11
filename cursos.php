@@ -12,7 +12,7 @@ include("header.php");
 	                    <h2 class="title">Cursos</h2>
 	                
 	                    <div class="row">
-	 						<p>Confira alguns cursos gratuitos que ministrei e aprenda algo novo!</p>
+	 						<p>Confira alguns cursos disponibilizados gratuitamente que ministrei e aprenda algo novo!</p>
 	                    </div>
 
 	                </div>
