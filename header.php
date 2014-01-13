@@ -3,12 +3,13 @@
     <head>
         <title>Nícholas André - Programador Web & Desktop</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="author" content="owwwlab.com">
+        <meta name="author" content="Nícholas André">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         
-        <meta name="description" content="A theme for faculty profile page" />
-        <meta name="keywords" content="faculty profile, theme,css, html, jquery, transition, transform, 3d, css3" />
-
+        <meta name="description" content="Site pessoal de Nícholas André" />
+        <meta name="keywords" content="cursos, wordpress, projetos, javascript" />
+        <meta property="og:image" content="http://nicholasandre.com.br/img/perfil.jpg" />
+        <link href="http://nicholasandre.com.br/img/perfil.jpg" rel="image_src" />
         <link rel="shortcut icon" href="../favicon.ico">
 
         <!--CSS styles-->
@@ -73,7 +74,7 @@
                             </li>  
                             
                             <li <?php if ( $_page == 'servicos' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="servicos">
+                              <a href="/servicos">
                                 <div class="icon icon-book"></div>
                                 <div class="text">Servíços</div>
                               </a>
@@ -92,11 +93,19 @@
                             </li> -->
 
                             <li <?php if ( $_page == 'ensino' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="/ensino.php">
+                              <a href="/ensino">
                                 <div class="icon icon-time"></div>
                                 <div class="text">Palestras e treinamentos</div>
                               </a>
                             </li>
+                            
+                            <li <?php if ( $_page == 'portfolio' ):  ?> class="currentmenu" <?php endif; ?>>
+                              <a href="/portfolio">
+                                <div class="icon icon-picture"></div>
+                                <div class="text">Portfolio</div>
+                              </a>
+                            </li>
+                            
                             <li>
                                 <a href="http://www.iotecnologia.com.br">
                                     <div class="icon icon-link"></div>
@@ -104,12 +113,6 @@
                                 </a>
                             </li>
 
-                            <li <?php if ( $_page == 'portfolio' ):  ?> class="currentmenu" <?php endif; ?>>
-                              <a href="/portfolio">
-                                <div class="icon icon-picture"></div>
-                                <div class="text">Portfolio</div>
-                              </a>
-                            </li>
 
                             <li <?php if ( $_page == 'contato' ):  ?> class="currentmenu" <?php endif; ?>>
                               <a href="/contato">

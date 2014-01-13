@@ -21,7 +21,7 @@
                             </p>
 
                             <p>Desenvolvo trabalhos terceirizados para empresas de Natal-RN, Mossoró-RN e para empresas do estado de São Paulo.</p>
-                            <p>Sua empresa precisa terceirizar algum serviço? Entre em <a href="contato.php">contato</a>.</p>
+                            <p>Sua empresa precisa terceirizar algum serviço? Entre em <a href="/contato">contato</a>.</p>
                         </div>
                         <div class="col-md-4">
                             <div class="subtitle text-center">

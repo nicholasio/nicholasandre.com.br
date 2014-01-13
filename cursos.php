@@ -13,6 +13,7 @@ include("header.php");
 	                
 	                    <div class="row">
 	 						<p>Confira alguns cursos disponibilizados gratuitamente que ministrei e aprenda algo novo!</p>
+	 						 <blockquote>"Coletar dados é o primeiro passo para sabedoria, mas compartilhar dados é o primeiro passo para comunidade."</blockquote>
 	                    </div>
 
 	                </div>
@@ -67,4 +68,4 @@ include("header.php");
 			</div>
     	</div>
 	</div>
-<?php get_footer(); ?>
+<?php include("footer.php");  ?>
