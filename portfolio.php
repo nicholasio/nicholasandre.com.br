@@ -108,7 +108,7 @@
                                     </li>
                                     <li>
                                         <div>
-                                            <img alt="image" src="/img/gallery/800x600.png">
+                                            <img alt="image" src="/img/sites/nrenatal.jpg">
                                             <a target="_blank" href="http://www.nre-natal.com.br" >
                                                 <div class="over">
                                                     <div class="comein">
