@@ -44,7 +44,49 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
 }
+/* video-wrapper*/
+div.video-wrapper {
 
+}
+div.video-wrapper ul {
+    margin:0 auto;
+    width:810px;
+    overflow:hidden;
+    padding:0;
+}
+div.video-wrapper ul li {
+    list-style-type: none;
+    float:left;
+    width: 90px;
+    height:80px;
+    border: 1px solid #CCC;
+}
+
+div.video-wrapper ul li a {
+    display:block;
+    height: 10px;
+    width: 90px;
+    padding: 28px 0;
+    text-align: center;
+    color:#000;
+}
+div.video-wrapper ul li:hover, div.video-wrapper ul li.selected {
+    border-bottom: 2px solid #03CC85 ;
+}
+div.video {
+    position: relative;
+    margin:0 auto;
+    width:700px;
+}
+div.video > img {
+    position: absolute;
+    left: -130px;
+    top: 420px;
+}
+div.video iframe {
+    margin-top: 20px;
+}
+/* end video-wrapper*/
 /* mobile menu
  **************************************************/
 .mobilemenu {
