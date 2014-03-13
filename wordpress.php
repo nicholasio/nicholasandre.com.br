@@ -1,5 +1,6 @@
 <?php 
 $_page = "cursos";
+$_title = "Curso Wordpress";
 include("header.php"); 
 
 function is_selected($part, $default) {

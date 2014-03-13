@@ -1,5 +1,6 @@
 <?php 
 $_page = "cursos";
+$_title = "Cursos";
 include("header.php"); 
 ?>
 	<div id="main">
@@ -25,17 +26,16 @@ include("header.php");
 	                    <div class="row">
 	                        <div class="col-md-10 col-md-offset-1">
 	                            <div class="title text-center">
-	                                <h3>Curso de Wordpress - Temas & Plugins</h3>
+	                                <h3><a href="/wordpress">Curso de Wordpress - Temas & Plugins</a></h3>
 	                            </div>
-	                            <iframe width="960" height="500" src="//www.youtube.com/embed/3AHwLw6l-SI" frameborder="0" allowfullscreen></iframe>
+	                            <!--<iframe width="960" height="500" src="//www.youtube.com/embed/3AHwLw6l-SI" frameborder="0" allowfullscreen></iframe>-->
 	                            <p>O curso de Wordpress - Temas & Plugins foi ministrado por mim na <a href="http://www.schoolofnet.com">School Of Net</a>, uma empresa
 	                    	    especializada em cursos na área de desenvolvimento web. O curso foi ministrado de forma 100% online e agora as gravações estão sendo disponibilizadas
-	                    		gratuitamente! O curso possui uma carga horária de 16h, não perca tempo, vire um ninja wordpress! Preencha seu e-mail no formulário abaixo que você receberá
-	                    		acesso completo ao curso!
-
-								<p><a target="_blank" href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">Clique aqui</a>	para assitir a palestra de divulgação do curso. Ou começe já seus estudos assitindo a primeira parte do curso no player acima.</p>
+	                    		gratuitamente! O curso possui uma carga horária de 16h, não perca tempo, vire um ninja wordpress! 
+                                	<h4><a  href="/wordpress">Assista agora!</a></h4>
+								<!--<p><a target="_blank" href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">Clique aqui</a>	para assitir a palestra de divulgação do curso. Ou começe já seus estudos assitindo a primeira parte do curso no player acima.</p>-->
 	                    	</p>
-	                    	<?php include("forms/wp-form.php"); ?>
+	                    	<?php //include("forms/wp-form.php"); ?>
 	                        </div>
 	                    </div>
 	                    <div class="row">

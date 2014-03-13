@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Nícholas André - Programador Web & Desktop</title>
+        <title><?php if( isset($_title) ) echo $_title . " | "; ?>Nícholas André - Programador Web & Desktop</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="author" content="Nícholas André">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         
-        <meta name="description" content="Site pessoal de Nícholas André" />
-        <meta name="keywords" content="cursos, wordpress, projetos, javascript" />
-        <meta property="og:image" content="http://nicholasandre.com.br/img/perfil.jpg" />
-        <link href="http://nicholasandre.com.br/img/perfil.jpg" rel="image_src" />
+        <meta name="description" content="Nícholas André - A freelancer Wordpress and PHP Developer" />
+        <meta name="keywords" content="cursos, wordpress, projetos, javascript, desenvolvedor, freelancer" />
+        <meta property="og:image" content="http://nicholasandre.com.br/img/wp.jpg" />
+        <link href="http://nicholasandre.com.br/img/wp.jpg" rel="image_src" />
         <link rel="shortcut icon" href="../favicon.ico">
 
         <!--CSS styles-->
@@ -83,7 +83,7 @@
                             <li <?php if ( $_page == 'servicos' ):  ?> class="currentmenu" <?php endif; ?>>
                               <a href="/servicos">
                                 <div class="icon icon-book"></div>
-                                <div class="text">Servíços</div>
+                                <div class="text">Serviços</div>
                               </a>
                             </li> 
                             <li  <?php if ( $_page == 'cursos' ):  ?> class="currentmenu" <?php endif; ?>>

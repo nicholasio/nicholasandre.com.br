@@ -41,11 +41,12 @@ include("header.php"); ?>
                             <div class="title text-center">
                                 <h3>Aprenda Wordpress!</h3>
                             </div>
-                            <p> Preencha seu e-mail no formulário abaixo e obtenha acesso completo ao curso de Wordpress Temas & Plugins com carga horária de 16h ministrado por min na <a href="#">School Of Net</a>.
+                            <p></p>
+                             <!--<p> Preencha seu e-mail no formulário abaixo e obtenha acesso completo ao curso de Wordpress Temas & Plugins com carga horária de 16h ministrado por min na <a href="#">School Of Net</a>.
 
                                 <h4><a target="_blank" href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">Clique aqui</a> para assitir a palestra de divulgação do curso.</h4>
-                            </p>
-                            <?php include("forms/wp-form.php"); ?>
+                            </p>-->
+                            <!--<?php //include("forms/wp-form.php"); ?> -->
                             <ul class="timeline">
                                 <li class="open">
                                     <div class="date">2013</div>
@@ -62,7 +63,7 @@ include("header.php"); ?>
                                         </div>
                                     </div>
                                 </li>        
-                                <li class="open">
+                                <li>
                                     <div class="date">2012</div>
                                     <div class="circle"></div>
                                     <div class="data">
