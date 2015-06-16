@@ -27,7 +27,7 @@
                                 <ul id="grid" class="grid">
                                      <li>
                                         <div>
-                                            <img alt="image" src="/img/sites/guiabd.jpg>"
+                                            <img alt="image" src="/img/sites/guiabd.jpg">
                                             <a target="_blank" href="http://www.guiabd.com.br">
                                                 <div class="over">
                                                     <div class="comein">
