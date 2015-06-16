@@ -20,9 +20,11 @@ include("header.php"); ?>
                         <div class="clearfix visible-sm visible-xs"></div>-->
                         <div class="col-sm-12">
                             <h3 class="title">Nícholas André</h3>
-                            <p>Técnico em TI pelo IFRN, graduando Ciência da Computação na UFERSA. Programo para Web há mais de 5 anos e há mais de 7 anos iniciei meus estudos na área de computação. Últimamente
-                                tenho desenvolvido projetos para web com PHP e seus Frameworks e CMS's. Possuo cerca 3 anos de experiência com WordPress, ferramenta a qual faço uso
-                                constante para desenvolver projetos para Web.</p>
+                            <p>
+                                I'm a IT Technician graduated from IFRN (a federal tecnhical school). Majoring in Computer Science at Ufersa (a federal University).
+                                I'm a web developer for about 6 years and I started to program 8 years ago. Lately I develop projects mainly with PHP and WordPress, I also
+                                created some plugins for WordPress, check my profile on WordPress.org: <a href="http://profiles.wordpress.org/nicholas_io">http://profiles.wordpress.org/nicholas_io</a>
+                            </p>
                         </div>  
                         
                     </div>
@@ -37,9 +39,9 @@ include("header.php"); ?>
             <div class="section color-1">
                 <div class="section-container">
                     <div class="row">
-                        <div class="col-md-5 col-md-offset-1">
+                        <!--<div class="col-md-5 col-md-offset-1">
                             <div class="title text-center">
-                                <h3>Treinamentos</h3>
+                                <h3>Trainings</h3>
                             </div>
                             <ul class="ul-dates">
                                 <li>
@@ -86,28 +88,28 @@ include("header.php"); ?>
                                 </li>
 
                             </ul>
-                        </div>
-                        <div class="col-md-5">
+                        </div>-->
+                        <div class="col-md-12">
                             <div class="title text-center">
-                                <h3>Formação</h3>
+                                <h3>Education</h3>
                             </div>
                             <ul class="ul-card">
 
                                 <li>
                                     <div class="dy">
-                                        <span class="degree">Bacharelado</span><span class="year">2011-</span>
+                                        <span class="degree">Bachelor's degree</span><span class="year">2011-</span>
                                     </div>
                                     <div class="description">
-                                        <p class="waht">Bacharelado em Ciência da Computação</p>
-                                        <p class="where">UFERSA - Universidade Federal Rural do Semi-Árido</p>
+                                        <p class="waht">Computer Science</p>
+                                        <p class="where">Ufersa - Universidade Federal Rural do Semi-Árido</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="dy">
-                                        <span class="degree">Técnico</span><span class="year">2008-2011</span>
+                                        <span class="degree">Techical Level</span><span class="year">2008-2011</span>
                                     </div>
                                     <div class="description">
-                                        <p class="waht">Técnico em Informática</p>
+                                        <p class="waht">Computers</p>
                                         <p class="where">IFRN - Instituto Federal de Educação Ciência e Tecnologia - Campus Mossoró</p>
                                     </div>
                                 </li>
@@ -119,7 +121,7 @@ include("header.php"); ?>
                 </div>
                     
             </div>
-            <div class="section color-2">
+            <!--<div class="section color-2">
                 <div class="section-container">
                     <div class="row">
                         <div class="col-md-10 col-md-offset-1">
@@ -132,7 +134,7 @@ include("header.php"); ?>
                                 <h4><a target="_blank" href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">Clique aqui</a> para assitir a palestra de divulgação do curso.</h4>
                             </p>-->
                             <!--<?php //include("forms/wp-form.php"); ?> -->
-                            <ul class="timeline">
+                            <!--<ul class="timeline">
                                 <li class="open">
                                     <div class="date">2013</div>
                                     <div class="circle"></div>
@@ -200,7 +202,7 @@ include("header.php"); ?>
                         </div>
                     </div>
                 </div>
-            </div>  
+            </div> -->
                           
         </div>
     </div>

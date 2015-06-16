@@ -9,12 +9,12 @@ include("header.php");
             <div class="headercontent">
                 <div class="section-container">
                     
-                    <h2 class="title">Treinamentos, palestras e mini-cursos</h2>
+                    <h2 class="title">Courses and Talks</h2>
                     
                     <div class="row">
                         <div class="col-md-12">
-                            <p>Aqui é possível ver alguns dos treinamentos, palestras e mini-cursos que ministrei ao longo da vida!</p>                                                   
-                            <blockquote>"Coletar dados é o primeiro passo para sabedoria, mas compartilhar dados é o primeiro passo para comunidade."</blockquote>
+                            <p>Here are some talks and training that I gave over the past few years.</p>                                                   
+                            <blockquote>"Collecting data is the first step to knowledge, but sharing data is the first step towards community."</blockquote>
                         </div>
                     </div>
                 </div>
@@ -26,7 +26,7 @@ include("header.php");
                     <div class="row">
                         <div class="col-md-10 col-md-offset-1">
                             <div class="title text-center">
-                                <h3>Cursos Ministrados</h3>
+                                <h3>My Online Courses</h3>
                             </div>
                             <ul class="ul-dates">
                                 <li>
@@ -35,8 +35,8 @@ include("header.php");
                                         <span>16h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>WordPress - Plugins Avançado - <a href="#"></a></h4>
-                                        <p> Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos do wordpress para criação de temas e plugins.
+                                        <h4>WordPress - Creating Plugins</h4>
+                                        <p> 16h online training at School Of Net.
                                         </p>
                                     </div>
                                 </li>
@@ -46,8 +46,8 @@ include("header.php");
                                         <span>16h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>WordPress - Temas & Plugins - <a href="/cursos"><em>Liberado! Assista agora</em></a></h4>
-                                        <p>Treinamento de 16h ministrado pela School Of Net, onde foi abordado vários recursos e técnicas para criação de plugins da forma correta com Wordpress. </p>
+                                        <h4>WordPress - Themes & Plugins</h4>
+                                        <p>16h online training at School Of Net. </p>
                                     </div>
                                 </li>
                             </ul>
