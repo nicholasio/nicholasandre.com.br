@@ -31,6 +31,61 @@ include("header.php");
                             <ul class="ul-dates">
                                 <li>
                                     <div class="dates">
+                                        <span>2014</span>
+                                        <span>13h</span>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Intermediate PHP</h4>
+                                        <p> 13h online training at MX Cursos/iMasters - <a href="https://mxcursos.com/php-volume-2-orientacao-a-objetos-e-design-patterns-criando-um-chat-online">Buy it</a>.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dates">
+                                        <span>2014</span>
+                                        <span>13h</span>
+                                    </div>
+                                    <div class="content">
+                                        <h4>PHP for Beginners - Creating a CMS</h4>
+                                        <p> 13h online training at MX Cursos/iMasters - <a href="https://mxcursos.com/php-volume-1-criando-um-cms-com-bootstrap-treinamento-essencial">Buy it</a>.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dates">
+                                        <span>2014</span>
+                                        <span>04h</span>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Advanced Custom Fields for WordPress with ACF</h4>
+                                        <p> 04h online training at MX Cursos/iMasters - <a href="https://mxcursos.com/criando-campos-personalizados-para-wordpress-com-advanced-custom-fields">Buy it</a>.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dates">
+                                        <span>2014</span>
+                                        <span>07h</span>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Developing WordPress Plugins</h4>
+                                        <p> 07h online training at MX Cursos/iMasters - <a href="https://mxcursos.com/curso-desenvolvendo-plugins-para-wordpress">Buy it</a>.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dates">
+                                        <span>2014</span>
+                                        <span>11h</span>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Developing WordPress Theme</h4>
+                                        <p> 11h online training at MX Cursos/iMasters - <a href="https://mxcursos.com/curso-desenvolvendo-temas-para-wordpress">Buy it</a>.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dates">
                                         <span>2012</span>
                                         <span>16h</span>
                                     </div>
