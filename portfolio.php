@@ -15,7 +15,7 @@
                                         <h2>Portfólio</h2>
                                     </div>
                                     <div class="col-md-8">
-                                        <p>Seleciono aqui alguns dos trabalhos em que desenvolvi para diversas empresas e clientes.</p>
+                                        <p>Here you can find some works that I did.</p>
                                     </div>
                                 </div>
                             </div>
