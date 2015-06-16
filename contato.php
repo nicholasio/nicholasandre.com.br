@@ -37,10 +37,10 @@ include("header.php");
                                     <strong><i class="icon-envelope"></i>&nbsp;&nbsp;</strong>
                                     <span>nicholas@iotecnologia.com.br</span>
                                 </li>
-                                <li>
+                                <!--<li>
                                     <strong><i class="icon-envelope"></i>&nbsp;&nbsp;</strong>
                                     <span>nicholas@agenciaimg.com</span>
-                                </li>
+                                </li>-->
                                 <li>
                                     <strong><i class="icon-skype"></i>&nbsp;&nbsp;</strong>
                                     <span>nicholas-io</span>

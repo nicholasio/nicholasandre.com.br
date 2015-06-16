@@ -17,7 +17,7 @@
                         <div class="col-md-8">
                             <p>
                                 Atualmente ofereço principalmente serviços para Web, como desenvolvimento de websites e sistemas.
-                                Trabalho com PHP, Wordpresse e CakePHP além das mais diversas tecnologias para front-end disponíveis.
+                                Trabalho com PHP, WordPress e CakePHP além das mais diversas tecnologias para front-end disponíveis.
                             </p>
 
                             <p>Desenvolvo trabalhos terceirizados para empresas de Natal-RN, Mossoró-RN e para empresas do estado de São Paulo.</p>
@@ -28,7 +28,7 @@
                                 <h3>Habilidadades</h3>
                             </div>
                             <ul class="ul-boxed list-unstyled">
-                                <li>PHP, CakePHP</li>
+                                <li>PHP, WordPress, CakePHP</li>
                                 <li>MySQL, Postgree</li>
                                 <li>Javascript, jQuery, ExtJS</li>
                                 <li>C/C++, Python, Java</li>

@@ -26,10 +26,10 @@ include("header.php");
 	                    <div class="row">
 	                        <div class="col-md-10 col-md-offset-1">
 	                            <div class="title text-center">
-	                                <h3><a href="/wordpress">Curso de Wordpress - Temas & Plugins</a></h3>
+	                                <h3><a href="/wordpress">Curso de WordPress - Temas & Plugins</a></h3>
 	                            </div>
 	                            <!--<iframe width="960" height="500" src="//www.youtube.com/embed/3AHwLw6l-SI" frameborder="0" allowfullscreen></iframe>-->
-	                            <p>O curso de Wordpress - Temas & Plugins foi ministrado por mim na <a href="http://www.schoolofnet.com">School Of Net</a>, uma empresa
+	                            <p>O curso de WordPress - Temas & Plugins foi ministrado por mim na <a href="http://www.schoolofnet.com">School Of Net</a>, uma empresa
 	                    	    especializada em cursos na área de desenvolvimento web. O curso foi ministrado de forma 100% online e agora as gravações estão sendo disponibilizadas
 	                    		gratuitamente! O curso possui uma carga horária de 16h, não perca tempo, vire um ninja wordpress! 
                                 	<h4><a  href="/wordpress">Assista agora!</a></h4>

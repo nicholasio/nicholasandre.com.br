@@ -25,6 +25,22 @@
                             <div class="section-container">
                                 
                                 <ul id="grid" class="grid">
+                                     <li>
+                                        <div>
+                                            <img alt="image" src="/img/sites/guiabd.jpg>"
+                                            <a target="_blank" href="http://www.guiabd.com.br">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <h3>GuiaBD</h3>
+                                                        <p>Guia Comercial de Bom despacho.</p>
+                                                        <p>Trabalho realizado: <em>Desenvolvimento de sistema de cadastro de estabelecimentos, login com facebook</em></p>
+                                                        <p>Endereço online: www.guiabd.com.br</p>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
                                     <li>
                                         <div>
                                             <img alt="image" src="/img/sites/ineagro.png">

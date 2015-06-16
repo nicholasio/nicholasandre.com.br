@@ -20,7 +20,7 @@ function is_selected($part, $default) {
 	            <div class="headercontent">
 
 	                <div class="section-container">
-	                    <h2 class="title">Curso de Wordpress - Temas & Plugins</h2>
+	                    <h2 class="title">Curso de WordPress - Temas & Plugins</h2>
 	                
 	                    <!--<div class="row">
 	 						<p>Confira alguns cursos disponibilizados gratuitamente que ministrei e aprenda algo novo!</p>
@@ -33,11 +33,11 @@ function is_selected($part, $default) {
 				<div class="section color-1">
 	                <div class="section-container">
                         <div class="video-wrapper col-md-12">
-                            <p> No curso de Wordpress Temas & Plugins é apresentado de forma didática como se trabalhar com Wordpress para a criação de temas e plugins.
-                             Ao longo do curso 2 temas são desenvolvidos do zero, mostrando as principais características e recursos do Wordpress. Ao final do curso é demonstrado os conceitos básicos de plugins e como 
+                            <p> No curso de WordPress Temas & Plugins é apresentado de forma didática como se trabalhar com WordPress para a criação de temas e plugins.
+                             Ao longo do curso 2 temas são desenvolvidos do zero, mostrando as principais características e recursos do WordPress. Ao final do curso é demonstrado os conceitos básicos de plugins e como 
                             criar seus próprios plugins.</p>
                             
-                            <p>Fontes: <a href="/downloads/cursowordpresstemasplugins.rar">CursoWordpressTemasPlugins.rar</a></p>
+                            <p>Fontes: <a href="/downloads/cursowordpresstemasplugins.rar">CursoWordPressTemasPlugins.rar</a></p>
                             <ul>
                                 <li <?php is_selected('part-1', true); ?> ><a href="?video=part-1">Parte 1 </a></li>
                                 <li <?php is_selected('part-2', false); ?>><a href="?video=part-2">Parte 2 </a></li>

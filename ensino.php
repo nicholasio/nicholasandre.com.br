@@ -35,7 +35,7 @@ include("header.php");
                                         <span>16h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>Wordpress - Plugins Avançado - <a href="#"><em> Será liberado em breve</em></a></h4>
+                                        <h4>WordPress - Plugins Avançado - <a href="#"></a></h4>
                                         <p> Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos do wordpress para criação de temas e plugins.
                                         </p>
                                     </div>
@@ -46,7 +46,7 @@ include("header.php");
                                         <span>16h</span>
                                     </div>
                                     <div class="content">
-                                        <h4>Wordpress - Temas & Plugins - <a href="/cursos"><em>Liberado! Assista agora</em></a></h4>
+                                        <h4>WordPress - Temas & Plugins - <a href="/cursos"><em>Liberado! Assista agora</em></a></h4>
                                         <p>Treinamento de 16h ministrado pela School Of Net, onde foi abordado vários recursos e técnicas para criação de plugins da forma correta com Wordpress. </p>
                                     </div>
                                 </li>

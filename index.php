@@ -20,9 +20,8 @@ include("header.php"); ?>
                         <div class="clearfix visible-sm visible-xs"></div>-->
                         <div class="col-sm-12">
                             <h3 class="title">Nícholas André</h3>
-                            <p>Técnico em Informática pelo IFRN - Mossoró, atualmente curso o Bacharelado em Ciência da Computação na Universidade Federal
-                                Rural do Semi-Árido. Programo para Web há 4 anos e há mais de 6 anos iniciei meus estudos na área de computação. Últimamente
-                                tenho desenvolvido projetos para web com PHP e seus Frameworks e CMS's. Possuo cerca 3 anos de experiência com Wordpress, ferramenta a qual faço uso
+                            <p>Técnico em TI pelo IFRN, graduando Ciência da Computação na UFERSA. Programo para Web há mais de 5 anos e há mais de 7 anos iniciei meus estudos na área de computação. Últimamente
+                                tenho desenvolvido projetos para web com PHP e seus Frameworks e CMS's. Possuo cerca 3 anos de experiência com WordPress, ferramenta a qual faço uso
                                 constante para desenvolver projetos para Web.</p>
                         </div>  
                         
@@ -34,88 +33,7 @@ include("header.php"); ?>
 
         <div class="pagecontents">
         
-            <div class="section color-2">
-                <div class="section-container">
-                    <div class="row">
-                        <div class="col-md-10 col-md-offset-1">
-                            <div class="title text-center">
-                                <h3>Aprenda Wordpress!</h3>
-                            </div>
-                            <p></p>
-                             <!--<p> Preencha seu e-mail no formulário abaixo e obtenha acesso completo ao curso de Wordpress Temas & Plugins com carga horária de 16h ministrado por min na <a href="#">School Of Net</a>.
 
-                                <h4><a target="_blank" href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">Clique aqui</a> para assitir a palestra de divulgação do curso.</h4>
-                            </p>-->
-                            <!--<?php //include("forms/wp-form.php"); ?> -->
-                            <ul class="timeline">
-                                <li class="open">
-                                    <div class="date">2013</div>
-                                    <div class="circle"></div>
-                                    <div class="data">
-                                        <div class="subject">Palestra Wordpress - Dicas e Truques</div>
-                                        <div class="text row">
-                                            <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="/img/wpplugins.jpg" >
-                                            </div>
-                                            <div class="col-md-10">
-                                               Palestra gratuita onde dou algumas dicas sobre wordpress. Assista <a href="https://connect72578937.adobeconnect.com/_a995756029/p2736p5t9hp/">aqui</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>        
-                                <li>
-                                    <div class="date">2012</div>
-                                    <div class="circle"></div>
-                                    <div class="data">
-                                        <div class="subject">Wordpress Plugins - Avançado</div>
-                                        <div class="text row">
-                                            <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="/img/wpplugins.jpg" >
-                                            </div>
-                                            <div class="col-md-10">
-                                                Treinamento de 16h ministrado pela School Of Net, onde foi abordado vários recursos e técnicas para criação
-                                                de plugins da forma correta com Wordpress. Será disponibilizado gratuitamente em breve.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="date">2012</div>
-                                    <div class="circle"></div>
-                                    <div class="data">
-                                        <div class="subject">Workshop Wordpress - Temas & Plugins</div>
-                                        <div class="text row">
-                                            <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="/img/wordpress.jpg" >
-                                            </div>
-                                            <div class="col-md-10">
-                                                Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos 
-                                                do wordpress para criação de temas e plugins. <a href="/cursos">Assista!</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="date">2012</div>
-                                    <div class="circle"></div>
-                                    <div class="data">
-                                        <div class="subject">Palestra Wordpress - Temas & Plugins</div>
-                                        <div class="text row">
-                                            <div class="col-md-2">
-                                                <img alt="image" class="thumbnail img-responsive" src="/img/wordpress.jpg" >
-                                            </div>
-                                            <div class="col-md-10">
-                                                Palestra ministrada para divulgar o curso de Wordpress - Temas & Plugins. Assista <a href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">aqui</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>  
             <div class="section color-1">
                 <div class="section-container">
                     <div class="row">
@@ -201,7 +119,88 @@ include("header.php"); ?>
                 </div>
                     
             </div>
+            <div class="section color-2">
+                <div class="section-container">
+                    <div class="row">
+                        <div class="col-md-10 col-md-offset-1">
+                            <div class="title text-center">
+                                <h3>Aprenda WordPress!</h3>
+                            </div>
+                            <p></p>
+                             <!--<p> Preencha seu e-mail no formulário abaixo e obtenha acesso completo ao curso de Wordpress Temas & Plugins com carga horária de 16h ministrado por min na <a href="#">School Of Net</a>.
 
+                                <h4><a target="_blank" href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">Clique aqui</a> para assitir a palestra de divulgação do curso.</h4>
+                            </p>-->
+                            <!--<?php //include("forms/wp-form.php"); ?> -->
+                            <ul class="timeline">
+                                <li class="open">
+                                    <div class="date">2013</div>
+                                    <div class="circle"></div>
+                                    <div class="data">
+                                        <div class="subject">Palestra WordPress - Dicas e Truques</div>
+                                        <div class="text row">
+                                            <div class="col-md-2">
+                                                <img alt="image" class="thumbnail img-responsive" src="/img/wpplugins.jpg" >
+                                            </div>
+                                            <div class="col-md-10">
+                                               Palestra gratuita onde dou algumas dicas sobre WordPress. Assista <a href="https://connect72578937.adobeconnect.com/_a995756029/p2736p5t9hp/">aqui</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>        
+                                <li>
+                                    <div class="date">2012</div>
+                                    <div class="circle"></div>
+                                    <div class="data">
+                                        <div class="subject">WordPress Plugins - Avançado</div>
+                                        <div class="text row">
+                                            <div class="col-md-2">
+                                                <img alt="image" class="thumbnail img-responsive" src="/img/wpplugins.jpg" >
+                                            </div>
+                                            <div class="col-md-10">
+                                                Treinamento de 16h ministrado pela School Of Net, onde foi abordado vários recursos e técnicas para criação
+                                                de plugins da forma correta com WordPress. Será disponibilizado gratuitamente em breve.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="date">2012</div>
+                                    <div class="circle"></div>
+                                    <div class="data">
+                                        <div class="subject">Workshop WordPress - Temas & Plugins</div>
+                                        <div class="text row">
+                                            <div class="col-md-2">
+                                                <img alt="image" class="thumbnail img-responsive" src="/img/wordpress.jpg" >
+                                            </div>
+                                            <div class="col-md-10">
+                                                Treinamento de 16h ministrado pela School Of Net, onde foi abordado aspectos básicos 
+                                                do wordpress para criação de temas e plugins. <a href="/cursos">Assista!</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="date">2012</div>
+                                    <div class="circle"></div>
+                                    <div class="data">
+                                        <div class="subject">Palestra WordPress - Temas & Plugins</div>
+                                        <div class="text row">
+                                            <div class="col-md-2">
+                                                <img alt="image" class="thumbnail img-responsive" src="/img/wordpress.jpg" >
+                                            </div>
+                                            <div class="col-md-10">
+                                                Palestra ministrada para divulgar o curso de WordPress - Temas & Plugins. Assista <a href="https://connect72578937.adobeconnect.com/_a995756029/p6ktndur6zr/">aqui</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>  
                           
         </div>
     </div>

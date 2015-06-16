@@ -199,7 +199,8 @@ div.video iframe {
 }
 
 #profile .portrate {
-	background-image: url("../img/personal/personal-image.jpg");
+	background-image: url("../img/perfil2014.jpg");
+	background-position: -7px 0;
 	width: 125px;
 	margin: 0 auto;
 	height: 125px;
