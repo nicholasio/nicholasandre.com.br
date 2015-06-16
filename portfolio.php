@@ -33,8 +33,8 @@
                                                     <div class="comein">
                                                         <h3>GuiaBD</h3>
                                                         <p>Guia Comercial de Bom despacho.</p>
-                                                        <p>Trabalho realizado: <em>Desenvolvimento de sistema de cadastro de estabelecimentos, login com facebook</em></p>
-                                                        <p>Endereço online: www.guiabd.com.br</p>
+                                                        <p>What I did: <em>WordPress Theme and establishments CRUD and login with facebook </em></p>
+                                                        <p>URL: www.guiabd.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -49,8 +49,8 @@
                                                     <div class="comein">
                                                         <h3>INEAGRO CABUGI</h3>
                                                         <p>Incubadora de Agronegócios da Universidade Federal Rural do Semi-Árido.</p>
-                                                        <p>Trabalho realizado: <em>Desenvolvimento do tema Wordpress</em></p>
-                                                        <p>Endereço online: www.ineagrocabugi.com.br</p>
+                                                        <p>What I did: <em>WordPress Theme</em></p>
+                                                        <p>URL: www.ineagrocabugi.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -65,8 +65,8 @@
                                                     <div class="comein">
                                                         <h3>IAGRAM RN</h3>
                                                         <p>Incubadora de Agronegócios da Universidade Federal Rural do Semi-Árido.</p>
-                                                        <p>Trabalho realizado: <em>Desenvolvimento do tema Wordpress</em></p>
-                                                        <p>Endereço online: www.iagramrn.com.br</p>
+                                                        <p>What I did: <em>WordPress Theme</em></p>
+                                                        <p>URL: www.iagramrn.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -80,9 +80,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>G.A Arquitetura</h3>
-                                                        <p>Trabalho realizado: <em>Montagem HTML/CSS, Interação Javascript, Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: www.gaarquitetura.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência InfosoftWeb</p>
+                                                        <p>What I did: <em>HTML/CSS, Javascript and WordPress Theme</em></p>
+                                                        <p>URL: www.gaarquitetura.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -96,9 +95,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>Próxima Engenharia</h3>
-                                                        <p>Trabalho realizado: <em>Montagem HTML/CSS, Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: www.proximaengenharia.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência InfosoftWeb</p>
+                                                        <p>What I did: <em>HTML/CSS and WordPress Theme</em></p>
+                                                        <p>URL: www.proximaengenharia.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -113,9 +111,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>Construe Max</h3>
-                                                        <p>Trabalho realizado: <em>Montagem HTML/CSS, Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: www.construemax.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência InfosoftWeb</p>
+                                                        <p>What I did: <em>HTML/CSS and WordPress Theme</em></p>
+                                                        <p>URL: www.construemax.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -129,9 +126,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>NRE</h3>
-                                                        <p>Trabalho realizado: <em>Desenvolvimento Tema Wordpress, desenvolvimento plugin de acompanhamento de obras</em></p>
-                                                        <p>Endereço online: www.nre-natal.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência InfosoftWeb</p>
+                                                        <p>What I did: <em>HTML/CSS and WordPress Theme and custom plugins</em></p>
+                                                        <p>URL: www.nre-natal.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -145,9 +141,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>Ligzarb</h3>
-                                                        <p>Trabalho realizado: <em>Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: www.ligzarb.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência InfosoftWeb</p>
+                                                        <p>What I did: <em>WordPress Theme</em></p>
+                                                        <p>URL: www.ligzarb.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -161,9 +156,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>Neurologia USP</h3>
-                                                        <p>Trabalho realizado: <em>Montagem HTML/CSS Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: www.neurologiausp.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência Trajettoria</p>
+                                                        <p>What I did: <em>HTML/CSS and WordPress Theme</em></p>
+                                                        <p>URL: www.neurologiausp.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -177,9 +171,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>APMT</h3>
-                                                        <p>Trabalho realizado: <em>Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: spmt.org.br</p>
-                                                        <p>Trabalho desenvolvido para a agência Trajettoria</p>
+                                                        <p>What I did: <em>WordPress Theme</em></p>
+                                                        <p>URL: spmt.org.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -193,9 +186,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>DOT</h3>
-                                                        <p>Trabalho realizado: <em>Montagem HTML/CSS, Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: www.ortopediaepm.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência Trajettoria</p>
+                                                        <p>What I did: <em>HTML/CSS and WordPress Theme</em></p>
+                                                        <p>URL: www.ortopediaepm.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -209,9 +201,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>Ciências Morfofuncionais</h3>
-                                                        <p>Trabalho realizado: <em>Montagem HTML/CSS, Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: www.cienciasmorfofuncionais.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência Trajettoria</p>
+                                                        <p>What I did: <em>HTML/CSS and WordPress Theme</em></p>
+                                                        <p>URL: www.cienciasmorfofuncionais.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
@@ -225,9 +216,8 @@
                                                 <div class="over">
                                                     <div class="comein">
                                                         <h3>Anestesiologia USP</h3>
-                                                        <p>Trabalho realizado: <em>Montagem HTML/CSS, Desenvolvimento Tema Wordpress</em></p>
-                                                        <p>Endereço online: www.anestesiologiausp.com.br</p>
-                                                        <p>Trabalho desenvolvido para a agência Trajettoria</p>
+                                                        <p>What I did: <em>HTML/CSS and WordPress Theme</em></p>
+                                                        <p>URL: www.anestesiologiausp.com.br</p>
                                                         <div class="comein-bg"></div>
                                                     </div>
                                                 </div>
